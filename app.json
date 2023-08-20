@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "FireApp",
+    "slug": "FireApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/flames.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/flames.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/flames.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/flames.png"
+    }
+  }
+}
