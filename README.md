@@ -1,2 +1,2 @@
 ﻿# FireApp
-Bu proje, dünya genelinde anlık olarak meydana gelen yangınları gösteren bir harita uygulamasını içerir. Uygulama, NASA'nın EONET API'sini kullanarak yangın verilerini çeker ve bu verileri harita üzerinde görselleştirir. Kullanıcılar, harita üzerindeki işaretçilere tıklayarak yangın hakkında daha fazla bilgi alabilirler
+This project includes a map application that shows eruptions occurring around the world. The app pulls bit by bit using NASA's EONET API and visualizes this data on a map. Users can get more information about files by clicking on the contacts on the map
